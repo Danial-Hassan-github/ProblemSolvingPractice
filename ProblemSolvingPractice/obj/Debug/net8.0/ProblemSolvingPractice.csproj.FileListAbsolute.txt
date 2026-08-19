@@ -1,0 +1,14 @@
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\bin\Debug\net8.0\ProblemSolvingPractice.exe
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\bin\Debug\net8.0\ProblemSolvingPractice.deps.json
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\bin\Debug\net8.0\ProblemSolvingPractice.runtimeconfig.json
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\bin\Debug\net8.0\ProblemSolvingPractice.dll
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\bin\Debug\net8.0\ProblemSolvingPractice.pdb
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.AssemblyInfoInputs.cache
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.AssemblyInfo.cs
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.csproj.CoreCompileInputs.cache
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.dll
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\refint\ProblemSolvingPractice.dll
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.pdb
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ProblemSolvingPractice.genruntimeconfig.cache
+C:\Users\ZAIN COMPUTER\source\repos\ProblemSolvingPractice\ProblemSolvingPractice\obj\Debug\net8.0\ref\ProblemSolvingPractice.dll

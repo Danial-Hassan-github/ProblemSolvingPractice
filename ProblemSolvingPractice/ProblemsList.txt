@@ -1,0 +1,305 @@
+﻿Since you're preparing specifically for **.NET developer interviews**, I'd prioritize problems that test logic rather than advanced algorithms. These are the kinds of questions that frequently appear in coding rounds and live interviews.
+
+## Arrays (10)
+
+### Easy
+
+1. Find the largest element in an array.
+2. Find the smallest element in an array.
+3. Find the second largest element.
+4. Find the second smallest element.
+5. Reverse an array without using built-in methods.
+
+### Medium
+
+6. Move all zeros to the end while maintaining the order of other elements.
+7. Remove duplicate elements from an array.
+8. Find all pairs whose sum equals a given target.
+9. Merge two sorted arrays into one sorted array.
+10. Rotate an array to the right by **K** positions.
+
+---
+
+# Strings (10)
+
+### Easy
+
+11. Reverse a string.
+12. Check whether a string is a palindrome.
+13. Count vowels, consonants, digits, and special characters.
+14. Find the first non-repeating character.
+15. Remove duplicate characters while preserving their first occurrence.
+
+### Medium
+
+16. Check if two strings are anagrams.
+17. Find the character with the highest frequency.
+18. Compress a string.
+    Example:
+
+```
+aaabbccccd
+```
+
+Output:
+
+```
+a3b2c4d1
+```
+
+19. Reverse the words in a sentence.
+
+```
+"I love C#"
+```
+
+Output:
+
+```
+"C# love I"
+```
+
+20. Find the longest word in a sentence.
+
+---
+
+# Lists (10)
+
+*(Use `List<int>` or `List<string>` instead of arrays.)*
+
+### Easy
+
+21. Find the maximum and minimum value.
+22. Remove all even numbers.
+23. Remove duplicate elements.
+24. Find the average of all numbers.
+25. Reverse a list without using `Reverse()`.
+
+### Medium
+
+26. Sort the list manually (Bubble Sort or Selection Sort).
+27. Find the intersection of two lists.
+    Example:
+
+```
+A = {1,2,3,4}
+B = {3,4,5,6}
+Output:
+3 4
+```
+
+28. Find elements that exist in the first list but not the second.
+29. Insert an element into its correct position in a sorted list.
+30. Find the most frequently occurring element in a list.
+
+---
+
+## Order I recommend solving them
+
+**Level 1 (Warm-up)**
+
+* 1, 2, 11, 12, 21, 22
+
+**Level 2 (Interview Basics)**
+
+* 3, 4, 5, 13, 14, 15, 23, 24, 25
+
+**Level 3 (Most Common Interview Questions)**
+
+* 6, 7, 8, 16, 17, 27, 28
+
+**Level 4 (A Little Harder)**
+
+* 9, 10, 18, 19, 20, 26, 29, 30
+
+This progression builds from simple iteration to using collections like `HashSet` and `Dictionary`, then to common interview patterns such as two pointers, frequency counting, sorting, and merging. Solving all 30 without relying on built-in shortcuts will give you solid practice for most junior-to-mid .NET coding interviews.
+
+##############################
+##############################
+##############################
+##############################
+##############################
+
+Given your situation, I would **not** try to cover every DSA topic. You only have **2 months** before you may need to shift your focus toward scholarship preparation, so the goal is to maximize return on time.
+
+I'd focus on problems that improve:
+
+* ✅ Interview performance
+* ✅ Backend engineering skills
+* ✅ Object-oriented thinking
+* ✅ System design intuition
+
+---
+
+# Month 1 – Build Strong Fundamentals
+
+## Week 1 – Arrays & Strings (12 Problems)
+
+1. Two Sum
+2. Best Time to Buy and Sell Stock
+3. Move Zeroes
+4. Remove Duplicates from Sorted Array
+5. Merge Sorted Arrays
+6. Rotate Array
+7. Valid Anagram
+8. Reverse String
+9. Valid Palindrome
+10. First Unique Character
+11. Longest Common Prefix
+12. String Compression
+
+**Mini Project:** Build a simple **Log Analyzer** that counts word frequency and finds duplicates.
+
+---
+
+## Week 2 – Hashing & Linked Lists (12 Problems)
+
+13. Contains Duplicate
+14. Intersection of Two Arrays
+15. Group Anagrams
+16. LRU Cache ⭐
+17. Reverse Linked List
+18. Middle of Linked List
+19. Detect Cycle
+20. Merge Two Sorted Linked Lists
+21. Remove Nth Node From End
+22. Palindrome Linked List
+23. Copy Random Pointer (optional)
+24. Design Browser History
+
+**Mini Project:** Implement an **In-Memory Cache** similar to Redis.
+
+---
+
+## Week 3 – Stack & Queue (10 Problems)
+
+25. Valid Parentheses
+26. Min Stack
+27. Implement Queue Using Stacks
+28. Implement Stack Using Queues
+29. Daily Temperatures
+30. Next Greater Element
+31. Sliding Window Maximum
+32. Moving Average From Data Stream
+33. Circular Queue
+34. Design Hit Counter
+
+**Mini Project:** Build a **Background Job Queue**.
+
+---
+
+## Week 4 – Binary Search & Sliding Window (12 Problems)
+
+35. Binary Search
+36. Search Insert Position
+37. First Bad Version
+38. Guess Number
+39. Find Peak Element
+40. Find Minimum in Rotated Array
+41. Longest Substring Without Repeating Characters
+42. Maximum Average Subarray
+43. Minimum Size Subarray Sum
+44. Permutation in String
+45. Longest Repeating Character Replacement
+46. Fruits Into Baskets
+
+**Mini Project:** Build an **API Rate Limiter**.
+
+---
+
+# Month 2 – Backend Thinking
+
+## Week 5 – Trees
+
+47. Maximum Depth
+48. Invert Binary Tree
+49. Same Tree
+50. Balanced Binary Tree
+51. Level Order Traversal
+52. Lowest Common Ancestor
+53. Path Sum
+54. Diameter of Binary Tree
+
+**Mini Project:** Build a **Folder Explorer** using a tree.
+
+---
+
+## Week 6 – Object-Oriented Design
+
+Implement:
+
+55. Parking Lot
+56. Library Management
+57. ATM
+58. Vending Machine
+59. Hotel Booking
+60. Elevator
+
+Focus on:
+
+* SOLID principles
+* Interfaces
+* Design Patterns
+
+---
+
+## Week 7 – Backend Components
+
+Implement these in .NET:
+
+61. Authentication Service
+62. JWT Service
+63. Session Manager
+64. Notification Queue
+65. File Upload Service
+66. Search Service
+67. Cache Service
+68. Logging Service
+
+---
+
+## Week 8 – System Design Practice
+
+Build simplified versions of:
+
+69. URL Shortener
+70. Tiny Redis
+71. WhatsApp Chat
+72. Notification System
+73. GitHub Issues
+74. Trello Board
+75. Food Delivery Backend
+76. URL Analytics
+
+---
+
+# Reading (30 minutes daily)
+
+Alongside coding, spend a little time each day on one backend topic:
+
+* HTTP
+* REST
+* JWT
+* Middleware
+* Dependency Injection
+* Entity Framework Core
+* Caching
+* Redis
+* RabbitMQ
+* Background Services
+* Logging
+* Docker
+* Microservices basics
+
+---
+
+## Final Outcome
+
+After these two months, you'll have:
+
+* **~76 carefully selected DSA/design problems**
+* **8 backend mini-projects**
+* **6 object-oriented design exercises**
+* **8 system-design-inspired implementations**
+
+This is a focused curriculum aimed at becoming a stronger backend engineer, not just a better algorithm solver. It also leaves you in a good position to pivot your attention to scholarship applications afterward without feeling that you neglected your software engineering growth.
