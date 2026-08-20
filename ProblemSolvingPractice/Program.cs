@@ -2,6 +2,7 @@
 using ProblemSolvingPractice.ArraySolutions;
 using ProblemSolvingPractice.Hashing_LinkedList;
 using ProblemSolvingPractice.ListSolutions;
+using ProblemSolvingPractice.Stack;
 using ProblemSolvingPractice.StringSolutions;
 
 public class Program
@@ -195,5 +196,33 @@ public class Program
         //manager.Login("Ali");
         //Console.WriteLine("After Ali logs in again:");
         //Console.WriteLine("Ali logged in: " + manager.IsLoggedIn("Ali"));
+
+        //StackUsingArray stackUsingArray = new StackUsingArray();
+        //stackUsingArray.Push(1);
+        //stackUsingArray.Push(2);
+        //stackUsingArray.Push(3);
+        //stackUsingArray.Push(4);
+        //stackUsingArray.Display();
+        //stackUsingArray.Push(5);
+        //stackUsingArray.Pop();
+        //stackUsingArray.Pop();
+        //Console.WriteLine(stackUsingArray.Pop());
+        //stackUsingArray.Display();
+
+        //StackUsingLinkedList stackUsingLinkedList = new StackUsingLinkedList();
+        //stackUsingLinkedList.Pop();
+        //stackUsingLinkedList.Push(1);
+        //stackUsingLinkedList.Push(2);
+        //stackUsingLinkedList.Push(3);
+        //stackUsingLinkedList.Push(4);
+        //stackUsingLinkedList.Display();
+        //stackUsingLinkedList.Push(5);
+        //stackUsingLinkedList.Push(6);
+        //stackUsingLinkedList.Push(7);
+        //stackUsingLinkedList.Push(8);
+        //stackUsingLinkedList.Pop();
+        //stackUsingLinkedList.Pop();
+        //Console.WriteLine(stackUsingLinkedList.Pop());
+        //stackUsingLinkedList.Display();
     }
 }

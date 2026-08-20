@@ -1,0 +1,125 @@
+﻿## Phase 1 — Stack
+
+1. Implement Stack using Array
+2. Implement Stack using LinkedList
+3. Reverse String using Stack
+4. Check Balanced Parentheses
+5. Remove Adjacent Duplicates
+6. Evaluate Postfix Expression
+7. Next Greater Element
+8. Stock Span Problem
+9. Min Stack
+10. Largest Rectangle in Histogram
+
+## Phase 2 — Queue
+
+1. Implement Queue using Array
+2. Implement Queue using LinkedList
+3. Implement Circular Queue
+4. Reverse a Queue
+5. Generate Binary Numbers from 1 to N
+6. First Non-Repeating Character in a Stream
+7. Queue using Two Stacks
+8. Stack using Two Queues
+9. Sliding Window Maximum
+10. Task Scheduler
+
+## Phase 3 — Dictionary
+
+1. Count Frequency of Elements
+2. Most Frequent Element
+3. First Non-Repeating Element
+4. Find Duplicate Elements
+5. Two Sum
+6. Intersection of Two Arrays
+7. Count Pairs with Given Sum
+8. Group Anagrams
+9. Longest Consecutive Sequence
+10. Longest Subarray with Given Sum
+11. Subarray Sum Equals K
+12. Top K Frequent Elements
+13. Isomorphic Strings
+14. Word Pattern
+15. Find All Duplicates
+
+## Phase 4 — HashSet / Hashing
+
+1. Contains Duplicate
+2. Contains Duplicate Within K Distance
+3. Intersection of Arrays using HashSet
+4. Union of Arrays using HashSet
+5. Happy Number
+6. Longest Consecutive Sequence
+7. Longest Substring Without Repeating Characters
+8. Longest Subarray with Zero Sum
+9. Count Subarrays with Given Sum
+10. 4Sum
+
+## Phase 5 — Heap / Priority Queue
+
+1. Implement Min Heap
+2. Implement Max Heap
+3. Insert into Heap
+4. Delete from Heap
+5. Heapify an Array
+6. Heap Sort
+7. Kth Largest Element
+8. Kth Smallest Element
+9. Top K Frequent Elements
+10. K Closest Points to Origin
+11. Merge K Sorted Lists
+12. Median from Data Stream
+
+## Phase 6 — Mixed Data Structure Problems
+
+1. First Unique Element
+2. LRU Cache
+3. Frequency Stack
+4. Design a Queue with O(1) Operations
+5. Design a Stack with O(1) Min
+6. Sliding Window Maximum
+7. Top K Frequent Elements
+8. Kth Largest Element
+9. First Non-Repeating Character in Stream
+10. Longest Substring Without Repeating Characters
+11. Subarray Sum Equals K
+12. Next Greater Element
+13. Task Scheduler
+14. Merge K Sorted Lists
+15. Design Browser History
+
+## Phase 7 — Trees
+
+1. Implement Binary Tree
+2. Preorder Traversal
+3. Inorder Traversal
+4. Postorder Traversal
+5. Level Order Traversal
+6. Find Maximum Depth
+7. Find Minimum Depth
+8. Count Nodes
+9. Search in Binary Tree
+10. Find Maximum Value
+11. Find Minimum Value
+12. Check if Two Trees are Identical
+13. Check Symmetric Tree
+14. Invert Binary Tree
+15. Path Sum
+
+## Phase 8 — Binary Search Tree
+
+1. Implement BST
+2. Search in BST
+3. Insert into BST
+4. Delete from BST
+5. Find Minimum in BST
+6. Find Maximum in BST
+7. Find Inorder Successor
+8. Find Inorder Predecessor
+9. Validate BST
+10. Find Kth Smallest Element
+11. Lowest Common Ancestor in BST
+12. Convert Sorted Array to BST
+13. Check Balanced BST
+14. Range Sum of BST
+15. BST to Sorted Array

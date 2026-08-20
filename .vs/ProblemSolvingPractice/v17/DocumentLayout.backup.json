@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\listsolutions\\sortlistbybubbleandselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\listsolutions\\sortlistbybubbleandselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\hashing\u0026linkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\hashing\u0026linkedlist\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\listsolutions\\insertelementintosortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\listsolutions\\insertelementintosortedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\stack\\stackusinglinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\stack\\stackusinglinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\hashing\u0026linkedlist\\authenticationsessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\hashing\u0026linkedlist\\authenticationsessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\stack\\stackusingarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\stack\\stackusingarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|c:\\users\\zain computer\\source\\repos\\problemsolvingpractice\\problemsolvingpractice\\problemslistadvance.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04749FA2-2CED-47AB-842B-EB05BD1AB6EF}|ProblemSolvingPractice\\ProblemSolvingPractice.csproj|solutionrelative:problemsolvingpractice\\problemslistadvance.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationSessionManager.cs",
-              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Hashing\u0026LinkedList\\AuthenticationSessionManager.cs",
-              "RelativeDocumentMoniker": "ProblemSolvingPractice\\Hashing\u0026LinkedList\\AuthenticationSessionManager.cs",
-              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Hashing\u0026LinkedList\\AuthenticationSessionManager.cs",
-              "RelativeToolTip": "ProblemSolvingPractice\\Hashing\u0026LinkedList\\AuthenticationSessionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Hashing\u0026LinkedList\\CustomLinkedList.cs",
+              "RelativeDocumentMoniker": "ProblemSolvingPractice\\Hashing\u0026LinkedList\\CustomLinkedList.cs",
+              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Hashing\u0026LinkedList\\CustomLinkedList.cs",
+              "RelativeToolTip": "ProblemSolvingPractice\\Hashing\u0026LinkedList\\CustomLinkedList.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwG8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T12:40:52.134Z"
+              "WhenOpened": "2026-08-20T05:43:02.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InsertElementIntoSortedList.cs",
-              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\ListSolutions\\InsertElementIntoSortedList.cs",
-              "RelativeDocumentMoniker": "ProblemSolvingPractice\\ListSolutions\\InsertElementIntoSortedList.cs",
-              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\ListSolutions\\InsertElementIntoSortedList.cs",
-              "RelativeToolTip": "ProblemSolvingPractice\\ListSolutions\\InsertElementIntoSortedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "StackUsingLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Stack\\StackUsingLinkedList.cs",
+              "RelativeDocumentMoniker": "ProblemSolvingPractice\\Stack\\StackUsingLinkedList.cs",
+              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Stack\\StackUsingLinkedList.cs",
+              "RelativeToolTip": "ProblemSolvingPractice\\Stack\\StackUsingLinkedList.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T18:41:38.792Z"
+              "WhenOpened": "2026-08-19T09:02:10.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SortListByBubbleAndSelection.cs",
-              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\ListSolutions\\SortListByBubbleAndSelection.cs",
-              "RelativeDocumentMoniker": "ProblemSolvingPractice\\ListSolutions\\SortListByBubbleAndSelection.cs",
-              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\ListSolutions\\SortListByBubbleAndSelection.cs",
-              "RelativeToolTip": "ProblemSolvingPractice\\ListSolutions\\SortListByBubbleAndSelection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StackUsingArray.cs",
+              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Stack\\StackUsingArray.cs",
+              "RelativeDocumentMoniker": "ProblemSolvingPractice\\Stack\\StackUsingArray.cs",
+              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Stack\\StackUsingArray.cs",
+              "RelativeToolTip": "ProblemSolvingPractice\\Stack\\StackUsingArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T18:41:29.378Z",
+              "WhenOpened": "2026-08-19T09:01:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProblemsListAdvance.txt",
+              "DocumentMoniker": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\ProblemsListAdvance.txt",
+              "RelativeDocumentMoniker": "ProblemSolvingPractice\\ProblemsListAdvance.txt",
+              "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\ProblemsListAdvance.txt",
+              "RelativeToolTip": "ProblemSolvingPractice\\ProblemsListAdvance.txt",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-08-19T08:48:20.483Z",
               "EditorCaption": ""
             },
             {
@@ -89,9 +108,10 @@
               "RelativeDocumentMoniker": "ProblemSolvingPractice\\Program.cs",
               "ToolTip": "C:\\Users\\ZAIN COMPUTER\\source\\repos\\ProblemSolvingPractice\\ProblemSolvingPractice\\Program.cs",
               "RelativeToolTip": "ProblemSolvingPractice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAANEAAAAAAAAAAAAswNQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T10:35:05.929Z"
+              "WhenOpened": "2026-07-23T10:35:05.929Z",
+              "EditorCaption": ""
             }
           ]
         }

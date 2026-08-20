@@ -18,6 +18,13 @@
             }
         }
 
+        public bool IsEmpty()
+        {
+            if (head == null)
+                return true;
+            return false;
+        }
+
         public void AddFirst(T Value)
         {
             Node<T> node = new(Value);
