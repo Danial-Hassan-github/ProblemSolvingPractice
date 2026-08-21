@@ -224,5 +224,12 @@ public class Program
         //stackUsingLinkedList.Pop();
         //Console.WriteLine(stackUsingLinkedList.Pop());
         //stackUsingLinkedList.Display();
+
+        //ReverseStringWithStack reverseStringWithStack = new ReverseStringWithStack();
+        //Console.WriteLine(reverseStringWithStack.Reverse("Hello fellow"));
+
+        //CheckBalancedParentheses checkBalancedParentheses = new CheckBalancedParentheses();
+        //bool isBalanced = checkBalancedParentheses.IsBalancedParentheses("[{(jjjj)}]");
+        //Console.Write(isBalanced);
     }
 }
