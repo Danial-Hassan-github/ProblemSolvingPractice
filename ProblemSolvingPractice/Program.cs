@@ -4,6 +4,7 @@ using ProblemSolvingPractice.Hashing_LinkedList;
 using ProblemSolvingPractice.ListSolutions;
 using ProblemSolvingPractice.Stack;
 using ProblemSolvingPractice.StringSolutions;
+using System.Linq.Expressions;
 
 public class Program
 {
@@ -231,5 +232,8 @@ public class Program
         //CheckBalancedParentheses checkBalancedParentheses = new CheckBalancedParentheses();
         //bool isBalanced = checkBalancedParentheses.IsBalancedParentheses("[{(jjjj)}]");
         //Console.Write(isBalanced);
+
+        //RemoveAdjacentDuplicates removeAdjacentDuplicates = new RemoveAdjacentDuplicates();
+        //removeAdjacentDuplicates.RemoveDuplicates(new List<int> { 1, 2, 3, 3, 4, 3, 5, 6, 6, 6, 8});
     }
 }
