@@ -235,5 +235,8 @@ public class Program
 
         //RemoveAdjacentDuplicates removeAdjacentDuplicates = new RemoveAdjacentDuplicates();
         //removeAdjacentDuplicates.RemoveDuplicates(new List<int> { 1, 2, 3, 3, 4, 3, 5, 6, 6, 6, 8});
+
+        //PostfixExpressionEvaluation postfixExpressionEvaluation = new PostfixExpressionEvaluation();
+        //postfixExpressionEvaluation.Evaluate(new List<char> { '2', '3', '+', '4', '*', '5', '-' });
     }
 }
