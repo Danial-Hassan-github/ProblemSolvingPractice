@@ -238,5 +238,8 @@ public class Program
 
         //PostfixExpressionEvaluation postfixExpressionEvaluation = new PostfixExpressionEvaluation();
         //postfixExpressionEvaluation.Evaluate(new List<char> { '2', '3', '+', '4', '*', '5', '-' });
+
+        //NextGreaterElement nextGreaterElement = new NextGreaterElement();
+        //nextGreaterElement.NextGreater(new List<int> { 4, 5, 2, 10, 8, 7, 11 });
     }
 }
