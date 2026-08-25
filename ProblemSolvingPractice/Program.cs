@@ -241,5 +241,23 @@ public class Program
 
         //NextGreaterElement nextGreaterElement = new NextGreaterElement();
         //nextGreaterElement.NextGreater(new List<int> { 4, 5, 2, 10, 8, 7, 11 });
+
+        //MinStack minStack = new MinStack();
+        //Stack<int> stack = minStack.GetMinStack(new List<int> {
+        //    84, 37, 92, 15, 68, 44, 73, 21, 56, 89,
+        //    12, 63, 48, 95, 31, 77, 26, 58, 91, 43,
+        //    7,  69, 82, 34, 54, 18, 76, 39, 61, 88,
+        //    23, 47, 71, 9,  52, 66, 29, 81, 14, 59,
+        //    97, 35, 45, 72, 19, 53, 87, 28, 64, 6,
+        //    79, 41, 22, 94, 33, 57, 75, 11, 86, 49,
+        //    67, 24, 78, 3,  51, 90, 36, 62, 17, 83,
+        //    46, 8,  74, 27, 55, 98, 13, 42, 65, 38,
+        //    93, 30, 80, 5,  60, 16, 85, 32, 70, 20,
+        //    96, 40, 25, 50, 10, 99, 4,  72, 58, 35,
+        //    63, 18, 7,  91, 44, 2,  69, 53, 27, 6,
+        //    88, 15, 76, 34, 12, 57, 83, 9,  45, 1
+        //});
+        //while (stack.Count > 0)
+        //    Console.WriteLine(stack.Pop());
     }
 }
