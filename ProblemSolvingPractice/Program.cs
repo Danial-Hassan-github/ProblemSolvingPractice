@@ -259,5 +259,10 @@ public class Program
         //});
         //while (stack.Count > 0)
         //    Console.WriteLine(stack.Pop());
+
+        //StockSpan stockSpan = new StockSpan();
+        //Stack<int> spans = stockSpan.GetStockSpan(new List<int> { 100, 80, 60, 70, 60, 75, 85 });
+        //while (spans.Count > 0)
+        //    Console.WriteLine(spans.Pop());
     }
 }
