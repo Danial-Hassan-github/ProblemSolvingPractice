@@ -11,16 +11,10 @@
             {
                 int count = 1;
 
-                while (trackStocks.Count > 0)
+                while (trackStocks.Count > 0 && stock > trackStocks.Peek().Stock)
                 {
-                    if (stock > trackStocks.Peek().Stock)
-                    {
-                        var previous = trackStocks.Pop();
-                        count += previous.Span;
-                        
-                    }
-                    else
-                        break;
+                    var previous = trackStocks.Pop();
+                    count += previous.Span;
                 }
                 trackStocks.Push((stock, count));
                 stockSpan.Push(count);
