@@ -2,6 +2,7 @@
 using ProblemSolvingPractice.ArraySolutions;
 using ProblemSolvingPractice.Hashing_LinkedList;
 using ProblemSolvingPractice.ListSolutions;
+using ProblemSolvingPractice.Queue;
 using ProblemSolvingPractice.Stack;
 using ProblemSolvingPractice.StringSolutions;
 using System.Linq.Expressions;
@@ -264,5 +265,35 @@ public class Program
         //Stack<int> spans = stockSpan.GetStockSpan(new List<int> { 100, 80, 60, 70, 60, 75, 85 });
         //while (spans.Count > 0)
         //    Console.WriteLine(spans.Pop());
+
+        //QueueArray<int> queue = new QueueArray<int>(5);
+        //Console.WriteLine("===== ENQUEUE =====");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(10)}");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(20)}");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(30)}");
+        //Console.WriteLine($"Size: {queue.Size()}");
+        //Console.WriteLine($"Peek: {queue.Peek()}");
+        //Console.WriteLine($"Is Empty: {queue.IsEmpty()}");
+        //Console.WriteLine("\n===== DEQUEUE =====");
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        //Console.WriteLine($"Size: {queue.Size()}");
+        //Console.WriteLine($"Peek: {queue.Peek()}");
+        //Console.WriteLine("\n===== ENQUEUE AFTER DEQUEUE =====");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(40)}");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(50)}");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(60)}");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(80)}");
+        //Console.WriteLine($"Size: {queue.Size()}");
+        //Console.WriteLine($"Peek: {queue.Peek()}");
+        //Console.WriteLine("\n===== FULL QUEUE =====");
+        //Console.WriteLine($"Enqueued: {queue.Enqueue(70)}");
+        //Console.WriteLine("\n===== CLEAR =====");
+        //queue.Clear();
+        //Console.WriteLine($"Size: {queue.Size()}");
+        //Console.WriteLine($"Is Empty: {queue.IsEmpty()}");
+        //Console.WriteLine($"Peek: {queue.Peek()}");
+        //Console.WriteLine("\n===== EMPTY QUEUE =====");
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
     }
 }
