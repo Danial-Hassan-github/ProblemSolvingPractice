@@ -266,6 +266,10 @@ public class Program
         //while (spans.Count > 0)
         //    Console.WriteLine(spans.Pop());
 
+        LargestRectangleHistogram histogram = new LargestRectangleHistogram();
+        int value = histogram.FindLargestRectangle(new List<int> { 2, 1, 5, 6, 2, 3 });
+        Console.WriteLine(value);
+
         //QueueArray<int> queue = new QueueArray<int>(5);
         //Console.WriteLine("===== ENQUEUE =====");
         //Console.WriteLine($"Enqueued: {queue.Enqueue(10)}");
