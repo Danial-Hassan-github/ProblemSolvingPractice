@@ -266,9 +266,9 @@ public class Program
         //while (spans.Count > 0)
         //    Console.WriteLine(spans.Pop());
 
-        LargestRectangleHistogram histogram = new LargestRectangleHistogram();
-        int value = histogram.FindLargestRectangle(new List<int> { 2, 1, 5, 6, 2, 3 });
-        Console.WriteLine(value);
+        //LargestRectangleHistogram histogram = new LargestRectangleHistogram();
+        //int value = histogram.FindLargestRectangle(new List<int> { 2, 1, 5, 6, 2, 3 });
+        //Console.WriteLine(value);
 
         //QueueArray<int> queue = new QueueArray<int>(5);
         //Console.WriteLine("===== ENQUEUE =====");
@@ -299,5 +299,18 @@ public class Program
         //Console.WriteLine($"Peek: {queue.Peek()}");
         //Console.WriteLine("\n===== EMPTY QUEUE =====");
         //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+
+        //QueueLinkedList<int> queue = new QueueLinkedList<int>();
+        //Console.WriteLine(queue.Enqueue(10));
+        //Console.WriteLine(queue.Enqueue(20));
+        //Console.WriteLine(queue.Enqueue(30));
+        //Console.WriteLine($"Peek: {queue.Peek()}");
+        //Console.WriteLine($"Dequeue: {queue.Dequeue()}");
+        //Console.WriteLine($"Dequeue: {queue.Dequeue()}");
+        //Console.WriteLine($"Size: {queue.Size()}");
+        //Console.WriteLine($"Empty: {queue.IsEmpty()}");
+        //queue.Clear();
+        //Console.WriteLine($"Size after Clear: {queue.Size()}");
+        //Console.WriteLine($"Empty after Clear: {queue.IsEmpty()}");
     }
 }
