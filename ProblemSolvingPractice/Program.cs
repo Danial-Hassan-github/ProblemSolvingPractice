@@ -312,5 +312,15 @@ public class Program
         //queue.Clear();
         //Console.WriteLine($"Size after Clear: {queue.Size()}");
         //Console.WriteLine($"Empty after Clear: {queue.IsEmpty()}");
+
+        CircularQueue<int> queue = new CircularQueue<int>(3);
+        Console.WriteLine(queue.Enqueue(10));
+        Console.WriteLine(queue.Enqueue(20));
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        Console.WriteLine(queue.Enqueue(30));
+        Console.WriteLine(queue.Enqueue(40));
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
     }
 }
