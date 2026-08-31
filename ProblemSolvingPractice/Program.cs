@@ -313,14 +313,25 @@ public class Program
         //Console.WriteLine($"Size after Clear: {queue.Size()}");
         //Console.WriteLine($"Empty after Clear: {queue.IsEmpty()}");
 
-        CircularQueue<int> queue = new CircularQueue<int>(3);
-        Console.WriteLine(queue.Enqueue(10));
-        Console.WriteLine(queue.Enqueue(20));
-        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
-        Console.WriteLine(queue.Enqueue(30));
-        Console.WriteLine(queue.Enqueue(40));
-        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
-        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
-        Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        //CircularQueue<int> queue = new CircularQueue<int>(3);
+        //Console.WriteLine(queue.Enqueue(10));
+        //Console.WriteLine(queue.Enqueue(20));
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        //Console.WriteLine(queue.Enqueue(30));
+        //Console.WriteLine(queue.Enqueue(40));
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+        //Console.WriteLine($"Dequeued: {queue.Dequeue()}");
+
+        //ReverseQueue reverseQueue = new ReverseQueue();
+        //Queue<int> reversedWithArray = reverseQueue.ReverseWithArray();
+        //Console.WriteLine("####### With Array #######");
+        //while (reversedWithArray.Count > 0)
+        //    Console.WriteLine(reversedWithArray.Dequeue());
+        //reverseQueue = new ReverseQueue();
+        //Queue<int> reversedWithStack = reverseQueue.ReverseWithStack();
+        //Console.WriteLine("####### With Stack #######");
+        //while (reversedWithStack.Count > 0)
+        //    Console.WriteLine(reversedWithStack.Dequeue());
     }
 }
