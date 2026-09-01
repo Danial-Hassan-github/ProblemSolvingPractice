@@ -333,5 +333,10 @@ public class Program
         //Console.WriteLine("####### With Stack #######");
         //while (reversedWithStack.Count > 0)
         //    Console.WriteLine(reversedWithStack.Dequeue());
+
+        GenerateBinaryNumbers generateBinaryNumbers = new GenerateBinaryNumbers();
+        Queue<string> binaries = generateBinaryNumbers.GenerateBinary(30);
+        while (binaries.Count > 0)
+            Console.WriteLine(binaries.Dequeue());
     }
 }
