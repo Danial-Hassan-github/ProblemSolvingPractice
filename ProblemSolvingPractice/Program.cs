@@ -334,9 +334,13 @@ public class Program
         //while (reversedWithStack.Count > 0)
         //    Console.WriteLine(reversedWithStack.Dequeue());
 
-        GenerateBinaryNumbers generateBinaryNumbers = new GenerateBinaryNumbers();
-        Queue<string> binaries = generateBinaryNumbers.GenerateBinary(30);
-        while (binaries.Count > 0)
-            Console.WriteLine(binaries.Dequeue());
+        //GenerateBinaryNumbers generateBinaryNumbers = new GenerateBinaryNumbers();
+        //Queue<string> binaries = generateBinaryNumbers.GenerateBinary(30);
+        //while (binaries.Count > 0)
+        //    Console.WriteLine(binaries.Dequeue());
+
+        FirstNon_RepeatingCharacter firstNon_Repeating = new FirstNon_RepeatingCharacter();
+        char c = firstNon_Repeating.NonRepeatingChar("aafbbccd");
+        Console.WriteLine(c);
     }
 }
