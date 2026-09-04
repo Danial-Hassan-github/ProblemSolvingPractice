@@ -339,8 +339,18 @@ public class Program
         //while (binaries.Count > 0)
         //    Console.WriteLine(binaries.Dequeue());
 
-        FirstNon_RepeatingCharacter firstNon_Repeating = new FirstNon_RepeatingCharacter();
-        char c = firstNon_Repeating.NonRepeatingChar("aafbbccd");
-        Console.WriteLine(c);
+        //FirstNon_RepeatingCharacter firstNon_Repeating = new FirstNon_RepeatingCharacter();
+        //char c = firstNon_Repeating.NonRepeatingChar("aafbbccd");
+        //Console.WriteLine(c);
+        
+        QueueUsingTwoStacks<int> queue = new QueueUsingTwoStacks<int>();
+        queue.Enqueue(1);
+        queue.Enqueue(2);
+        queue.Enqueue(3);
+        queue.Enqueue(4);
+        queue.Enqueue(5);
+        Console.WriteLine(queue.Dequeue());
+        queue.Enqueue(6);
+        Console.WriteLine(queue.Dequeue());
     }
 }
