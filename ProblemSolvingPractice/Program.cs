@@ -342,15 +342,23 @@ public class Program
         //FirstNon_RepeatingCharacter firstNon_Repeating = new FirstNon_RepeatingCharacter();
         //char c = firstNon_Repeating.NonRepeatingChar("aafbbccd");
         //Console.WriteLine(c);
-        
-        QueueUsingTwoStacks<int> queue = new QueueUsingTwoStacks<int>();
-        queue.Enqueue(1);
-        queue.Enqueue(2);
-        queue.Enqueue(3);
-        queue.Enqueue(4);
-        queue.Enqueue(5);
-        Console.WriteLine(queue.Dequeue());
-        queue.Enqueue(6);
-        Console.WriteLine(queue.Dequeue());
+
+        //QueueUsingTwoStacks<int> queue = new QueueUsingTwoStacks<int>();
+        //queue.Enqueue(1);
+        //queue.Enqueue(2);
+        //queue.Enqueue(3);
+        //queue.Enqueue(4);
+        //queue.Enqueue(5);
+        //Console.WriteLine(queue.Dequeue());
+        //queue.Enqueue(6);
+        //Console.WriteLine(queue.Dequeue());
+
+        StackUsingTwoQueues<int> stack = new StackUsingTwoQueues<int>();
+        stack.Push(10);
+        stack.Push(20);
+        stack.Push(30);
+        Console.WriteLine($"Pop: {stack.Pop()}");
+        Console.WriteLine($"Pop: {stack.Pop()}");
+        Console.WriteLine($"Pop: {stack.Pop()}");
     }
 }
