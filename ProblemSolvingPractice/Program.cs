@@ -353,12 +353,19 @@ public class Program
         //queue.Enqueue(6);
         //Console.WriteLine(queue.Dequeue());
 
-        StackUsingTwoQueues<int> stack = new StackUsingTwoQueues<int>();
-        stack.Push(10);
-        stack.Push(20);
-        stack.Push(30);
-        Console.WriteLine($"Pop: {stack.Pop()}");
-        Console.WriteLine($"Pop: {stack.Pop()}");
-        Console.WriteLine($"Pop: {stack.Pop()}");
+        //StackUsingTwoQueues<int> stack = new StackUsingTwoQueues<int>();
+        //stack.Push(10);
+        //stack.Push(20);
+        //stack.Push(30);
+        //Console.WriteLine($"Pop: {stack.Pop()}");
+        //Console.WriteLine($"Pop: {stack.Pop()}");
+        //Console.WriteLine($"Pop: {stack.Pop()}");
+
+        SlidingWindowMaximum maximums = new SlidingWindowMaximum();
+        int[] nums = { 1, 3, -1, -3, 5 };
+        int k = 3;
+        List<int> result = maximums.Maximums(nums, k);
+        foreach (int value in result)
+            Console.WriteLine(value);
     }
 }
