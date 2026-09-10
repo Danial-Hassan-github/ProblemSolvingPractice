@@ -6,6 +6,7 @@ using ProblemSolvingPractice.Queue;
 using ProblemSolvingPractice.Stack;
 using ProblemSolvingPractice.StringSolutions;
 using System.Linq.Expressions;
+using TaskScheduler = ProblemSolvingPractice.Queue.TaskScheduler;
 
 public class Program
 {
@@ -361,11 +362,20 @@ public class Program
         //Console.WriteLine($"Pop: {stack.Pop()}");
         //Console.WriteLine($"Pop: {stack.Pop()}");
 
-        SlidingWindowMaximum maximums = new SlidingWindowMaximum();
-        int[] nums = { 1, 3, -1, -3, 5 };
-        int k = 3;
-        List<int> result = maximums.Maximums(nums, k);
-        foreach (int value in result)
-            Console.WriteLine(value);
+        //SlidingWindowMaximum maximums = new SlidingWindowMaximum();
+        //int[] nums = { 1, 3, -1, -3, 5 };
+        //int k = 3;
+        //List<int> result = maximums.Maximums(nums, k);
+        //foreach (int value in result)
+        //    Console.WriteLine(value);
+
+        TaskScheduler scheduler = new TaskScheduler();
+        scheduler.AddTask("Send Email");
+        scheduler.AddTask("Generate Report");
+        scheduler.AddTask("Backup Database");
+        Console.WriteLine($"Next: {scheduler.PeekNextTask()}");
+        Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
+        Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
+        Console.WriteLine($"Pending: {scheduler.PendingTasks()}");
     }
 }
