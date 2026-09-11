@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ProblemSolvingPractice.ArraySolutions;
 using ProblemSolvingPractice.Hashing_LinkedList;
+using ProblemSolvingPractice.Heap;
 using ProblemSolvingPractice.ListSolutions;
 using ProblemSolvingPractice.Queue;
 using ProblemSolvingPractice.Stack;
@@ -369,13 +370,28 @@ public class Program
         //foreach (int value in result)
         //    Console.WriteLine(value);
 
-        TaskScheduler scheduler = new TaskScheduler();
-        scheduler.AddTask("Send Email");
-        scheduler.AddTask("Generate Report");
-        scheduler.AddTask("Backup Database");
-        Console.WriteLine($"Next: {scheduler.PeekNextTask()}");
-        Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
-        Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
-        Console.WriteLine($"Pending: {scheduler.PendingTasks()}");
+        //TaskScheduler scheduler = new TaskScheduler();
+        //scheduler.AddTask("Send Email");
+        //scheduler.AddTask("Generate Report");
+        //scheduler.AddTask("Backup Database");
+        //Console.WriteLine($"Next: {scheduler.PeekNextTask()}");
+        //Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
+        //Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
+        //Console.WriteLine($"Pending: {scheduler.PendingTasks()}");
+
+        MinHeap heap = new MinHeap();
+        heap.Insert(10);
+        heap.Insert(5);
+        heap.Insert(20);
+        heap.Insert(2);
+        heap.Insert(8);
+        heap.Insert(1);
+        Console.WriteLine(heap.Peek());
+        Console.WriteLine(heap.ExtractMin());
+        Console.WriteLine(heap.ExtractMin());
+        Console.WriteLine(heap.ExtractMin());
+        Console.WriteLine(heap.ExtractMin());
+        Console.WriteLine(heap.ExtractMin());
+        Console.WriteLine(heap.ExtractMin());
     }
 }
