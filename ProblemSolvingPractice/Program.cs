@@ -379,19 +379,34 @@ public class Program
         //Console.WriteLine($"Processed: {scheduler.ProcessNextTask()}");
         //Console.WriteLine($"Pending: {scheduler.PendingTasks()}");
 
-        MinHeap heap = new MinHeap();
+        //MinHeap heap = new MinHeap();
+        //heap.Insert(10);
+        //heap.Insert(5);
+        //heap.Insert(20);
+        //heap.Insert(2);
+        //heap.Insert(8);
+        //heap.Insert(1);
+        //Console.WriteLine(heap.Peek());
+        //Console.WriteLine(heap.ExtractMin());
+        //Console.WriteLine(heap.ExtractMin());
+        //Console.WriteLine(heap.ExtractMin());
+        //Console.WriteLine(heap.ExtractMin());
+        //Console.WriteLine(heap.ExtractMin());
+        //Console.WriteLine(heap.ExtractMin());
+
+        MaxHeap heap = new MaxHeap();
         heap.Insert(10);
         heap.Insert(5);
         heap.Insert(20);
         heap.Insert(2);
         heap.Insert(8);
-        heap.Insert(1);
+        heap.Insert(15);
         Console.WriteLine(heap.Peek());
-        Console.WriteLine(heap.ExtractMin());
-        Console.WriteLine(heap.ExtractMin());
-        Console.WriteLine(heap.ExtractMin());
-        Console.WriteLine(heap.ExtractMin());
-        Console.WriteLine(heap.ExtractMin());
-        Console.WriteLine(heap.ExtractMin());
+        Console.WriteLine(heap.ExtractMax());
+        Console.WriteLine(heap.ExtractMax());
+        Console.WriteLine(heap.ExtractMax());
+        Console.WriteLine(heap.ExtractMax());
+        Console.WriteLine(heap.ExtractMax());
+        Console.WriteLine(heap.ExtractMax());
     }
 }
