@@ -394,19 +394,25 @@ public class Program
         //Console.WriteLine(heap.ExtractMin());
         //Console.WriteLine(heap.ExtractMin());
 
-        MaxHeap heap = new MaxHeap();
-        heap.Insert(10);
-        heap.Insert(5);
-        heap.Insert(20);
-        heap.Insert(2);
-        heap.Insert(8);
-        heap.Insert(15);
-        Console.WriteLine(heap.Peek());
-        Console.WriteLine(heap.ExtractMax());
-        Console.WriteLine(heap.ExtractMax());
-        Console.WriteLine(heap.ExtractMax());
-        Console.WriteLine(heap.ExtractMax());
-        Console.WriteLine(heap.ExtractMax());
-        Console.WriteLine(heap.ExtractMax());
+        //MaxHeap heap = new MaxHeap();
+        //heap.Insert(10);
+        //heap.Insert(5);
+        //heap.Insert(20);
+        //heap.Insert(2);
+        //heap.Insert(8);
+        //heap.Insert(15);
+        //Console.WriteLine(heap.Peek());
+        //Console.WriteLine(heap.ExtractMax());
+        //Console.WriteLine(heap.ExtractMax());
+        //Console.WriteLine(heap.ExtractMax());
+        //Console.WriteLine(heap.ExtractMax());
+        //Console.WriteLine(heap.ExtractMax());
+        //Console.WriteLine(heap.ExtractMax());
+
+        List<int> heap = new() { 5, 10, 20, 15, 12 };
+        InsertIntoHeap minHeap = new InsertIntoHeap();
+        minHeap.Insert(heap, 3);
+        foreach (int value in heap)
+            Console.Write(value + " ");
     }
 }
